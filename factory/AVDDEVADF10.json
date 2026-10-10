@@ -1,0 +1,15 @@
+{
+	"name": "AVDDEVADF10",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4ccdbacd-6455-4317-b444-c56423a01c49",
+		"tenantId": "3c11aa3d-d88b-4199-bb5a-314a13f05c6b"
+	}
+}
