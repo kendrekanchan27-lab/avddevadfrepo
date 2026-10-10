@@ -12,13 +12,13 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"variableName": "x",
-					"value": "10"
+					"variableName": "y",
+					"value": "40"
 				}
 			}
 		],
 		"variables": {
-			"x": {
+			"y": {
 				"type": "String"
 			}
 		},
